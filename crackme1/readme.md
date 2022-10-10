@@ -1,4 +1,4 @@
-1. Open with Ghidra
+1. Open PE with Ghidra
 2. Search strings
 3. Locate "Cracked" in strings, go to this function
 4. Enter the function into the decompiler through the XREF

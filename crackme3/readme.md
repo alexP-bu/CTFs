@@ -1,4 +1,4 @@
-1. Open with Ghidra
+1. Open PE with Ghidra
 2. Go to Symbol Tree and find __main
 3. Find first unconditional call, open it in decompiler
 4. Find last function being called before exit, this is main

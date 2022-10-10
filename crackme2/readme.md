@@ -1,4 +1,4 @@
-1. Open with Ghidra
+1. Open PE with Ghidra
 2. Symbol tree -> exports -> entry
 3. Enter the unamed function in entry
 4. Scroll down and find the first unnamed function call before exit() / cexit()
