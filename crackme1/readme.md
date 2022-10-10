@@ -9,5 +9,5 @@
 9. Inside this function, we can see a list of hex values. Double click 
     to find the value in the dissassembler. Now, we can convert each value to ascii to get our result
 
-[solution1.1](./8ed72c997123baf6bd3ba80e57bb7228.png)
-[solution1.2](./30ab1664f078e16468ed3ebc5313436d.png)
+![solution1.1](./8ed72c997123baf6bd3ba80e57bb7228.png)
+![solution1.2](./30ab1664f078e16468ed3ebc5313436d.png)
