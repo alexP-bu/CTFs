@@ -1,7 +1,6 @@
-##WARNING: DO NOT RUN EXE FILES OUTSIDE OF AN ISOLATED SANDBOX ENVIRONMENT!
-
-
 Reverse Engineering CTFs!
+
+##WARNING: DO NOT RUN EXE FILES OUTSIDE OF AN ISOLATED SANDBOX ENVIRONMENT!
 
 Goal: Figure out what the PE is doing, and find the input FLAG{...} to make the program
     print Cracked! 
